@@ -1,0 +1,20 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "AR Menu App Seminar Research",
+  "description": "Software developed for the Scientific Paper of the Future seminar assignment.",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Fahad",
+      "familyName": "Saeed",
+      "email": "fahad.saeed@alumnos.upm.es",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "MUSS, Universidad Politécnica de Madrid"
+      }
+    }
+  ],
+  "license": "https://spdx.org/licenses/Apache-2.0.html",
+  "developmentStatus": "active"
+}
