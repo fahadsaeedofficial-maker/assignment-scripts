@@ -18,3 +18,5 @@ Fahad Saeed
 ## Provenance Diagram
 
 ![Provenance Diagram](provenance-diagram.png)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.v1.1.0.svg)](https://doi.org/10.5281/zenodo.NEWID)
