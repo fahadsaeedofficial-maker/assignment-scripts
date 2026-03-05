@@ -13,4 +13,8 @@ Fahad Saeed
 
 ## DOI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18882127.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18882127.svg)](https://doi.org/10.5281/zenodo.18882127)
+
+## Provenance Diagram
+
+![Provenance Diagram](provenance-diagram.png)
