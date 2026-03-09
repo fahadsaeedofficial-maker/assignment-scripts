@@ -1,6 +1,10 @@
 # Assignment Scripts
 
 This repository contains simple scripts created for academic assignments.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18924899.svg)](https://doi.org/10.5281/zenodo.18924899)
+
+This repository contains a simple Python script created for an academic assignment.  
+The repository is archived on Zenodo to ensure reproducibility and citation.
 
 ## Script
 analysis_script.py
