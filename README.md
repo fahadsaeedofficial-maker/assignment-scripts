@@ -24,3 +24,10 @@ Fahad Saeed
 ![Provenance Diagram](provenance-diagram.png)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.v1.1.0.svg)](https://doi.org/10.5281/zenodo.NEWID)
+
+## Citation
+
+If you use this repository, please cite:
+
+Saeed, F. (2026). Assignment Scripts (Version 1.0.0). Zenodo.  
+https://doi.org/10.5281/zenodo.18924899
